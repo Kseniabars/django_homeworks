@@ -2,7 +2,8 @@
   {
     "model": "books.book",
     "pk": 1,
-    "fields": {
+    "fields":
+    {
       "name": "Война и мир",
       "author": "Л.Н. Толстой",
       "pub_date": "2018-02-27"
@@ -11,9 +12,20 @@
   {
     "model": "books.book",
     "pk": 2,
-    "fields": {
+    "fields":
+    {
       "name": "1984",
-      "author": "Джордж Оруэл",
+      "author": "Стивен Кинг",
+      "pub_date": "2018-09-10"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields":
+    {
+      "name": "Сияние",
+      "author": "Стивен Кинг",
       "pub_date": "2016-12-06"
     }
   }
